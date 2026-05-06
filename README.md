@@ -47,7 +47,7 @@ Passionate about Machine Learning, Data Analysis, Deep Learning, and Building In
 
 ### Machine Learning & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,colab" />
 </p>
 
 <p>
@@ -89,22 +89,9 @@ Packet analysis using CFG and Finite Automata for network security.
 ## 📜 Certifications
 
 - ✅ Red Hat Certified System Administrator (RHCSA)
-- ✅ Introduction to MongoDB
-- ✅ UiPath Certified Professional Automation Developer Associate
+- ✅ IBM Data Science coursera
 - ✅ Web Development Internship – Teachnook & IIT Roorkee
 - ✅ UI/UX Internship – Marcellotech
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maharajanesakkiappan&show_icons=true&theme=default&title_color=4da6ff&icon_color=4da6ff" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharajanesakkiappan&layout=compact&title_color=4da6ff" />
-</p>
 
 ---
 
@@ -132,7 +119,7 @@ Packet analysis using CFG and Finite Automata for network security.
 
 ## ✨ Quote
 
-> “Learning Without Limits”
+> “IF THERE IS A WILL THERE IS A WAY”
 
 ---
 
