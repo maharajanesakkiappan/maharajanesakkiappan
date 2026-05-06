@@ -1,9 +1,6 @@
-# Futuristic AI GitHub README
-
-````md
 <div align="center">
 
-# ✨ Maharajan E ✨
+# ✨ Mahan E ✨
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=6EC6FF&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Student;Data+Science+Enthusiast;Deep+Learning+Explorer;Building+Intelligent+Solutions+with+AI" alt="Typing SVG" />
 
@@ -61,11 +58,11 @@ Interests:
 
 <div align="center">
 
-| Machine Learning | Data Science | Visualization |
-|---|---|---|
-| Pandas | NumPy | Matplotlib |
-| Scikit-learn | Feature Engineering | Dataset Preprocessing |
-| Model Evaluation | Deep Learning | Predictive Analytics |
+| Machine Learning | Data Science        | Visualization         |
+| ---------------- | ------------------- | --------------------- |
+| Pandas           | NumPy               | Matplotlib            |
+| Scikit-learn     | Feature Engineering | Dataset Preprocessing |
+| Model Evaluation | Deep Learning       | Predictive Analytics  |
 
 </div>
 
@@ -83,12 +80,12 @@ Interests:
 
 <div align="center">
 
-| Project | Description |
-|---|---|
+| Project                         | Description                                            |
+| ------------------------------- | ------------------------------------------------------ |
 | 🫀 Automated ECG Classification | Deep Learning-based ECG image classification using CNN |
-| 📊 HR Predictive Analytics | Employee attrition prediction using Machine Learning |
-| 🔐 Secure Tunneling Detection | CFG & FA-based packet analysis for cyber security |
-| 🏛️ NeRF 3D Reconstruction | Heritage reconstruction using AI and Computer Vision |
+| 📊 HR Predictive Analytics      | Employee attrition prediction using Machine Learning   |
+| 🔐 Secure Tunneling Detection   | CFG & FA-based packet analysis for cyber security      |
+| 🏛️ NeRF 3D Reconstruction      | Heritage reconstruction using AI and Computer Vision   |
 
 </div>
 
@@ -98,10 +95,10 @@ Interests:
 
 <div align="center">
 
-✅ Red Hat Certified System Administrator (RHCSA)  
-✅ IBM Data Science Professional Certificate  
-✅ Web Development Internship – Teachnook & IIT Roorkee  
-✅ UI/UX Internship – Marcellotech  
+✅ Red Hat Certified System Administrator (RHCSA)
+✅ IBM Data Science Professional Certificate
+✅ Web Development Internship – Teachnook & IIT Roorkee
+✅ UI/UX Internship – Marcellotech
 
 </div>
 
@@ -162,4 +159,3 @@ Interests:
 ### 💙 Thanks for visiting my profile 💙
 
 </div>
-````
