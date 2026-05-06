@@ -13,7 +13,6 @@ Passionate about Machine Learning, Data Analysis, Deep Learning, and Building In
 ## 👨‍💻 About Me
 
 - 🎓 AIML Student
-
 - 🤖 Focused on:
   - Machine Learning
   - Data Science
@@ -41,19 +40,17 @@ Passionate about Machine Learning, Data Analysis, Deep Learning, and Building In
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
----
-
-### 🤖 Machine Learning & Data Science
+### Machine Learning & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,colab" />
-</p>
 
 - Pandas  
 - NumPy  
@@ -64,12 +61,11 @@ Passionate about Machine Learning, Data Analysis, Deep Learning, and Building In
 - Feature Engineering  
 - Model Evaluation  
 
----
+</p>
 
-### 🛠️ Tools & Platforms
-
+### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb," />
 </p>
 
 ---
@@ -93,7 +89,7 @@ Packet analysis using CFG and Finite Automata for network security.
 ## 📜 Certifications
 
 - ✅ Red Hat Certified System Administrator (RHCSA)
-- ✅ IBM Data Science Professional Certificate
+- ✅ IBM Data Science Coursera
 - ✅ Web Development Internship – Teachnook & IIT Roorkee
 - ✅ UI/UX Internship – Marcellotech
 
@@ -102,51 +98,31 @@ Packet analysis using CFG and Finite Automata for network security.
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=maharajanesakkiappan&theme=tokyonight&ring=4da6ff&fire=f9a8d4&currStreakLabel=4da6ff" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maharajanesakkiappan&show_icons=true&theme=tokyonight&title_color=4da6ff&icon_color=f9a8d4" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maharajanesakkiappan&layout=compact&theme=tokyonight&title_color=4da6ff" />
+  <img src="https://streak-stats.demolab.com?user=maharajanesakkiappan&theme=default&ring=4da6ff&fire=4da6ff&currStreakLabel=4da6ff" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-
+<p>
 <a href="https://www.linkedin.com/in/maharajan-esakkiappan-71178629a/" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="45" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-
-&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/maharajanesakkiappan" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=github" height="45" />
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
-
 </p>
 
 ---
 
 ## ✨ Quote
 
-<p align="center">
-
-> ### "IF THERE IS A WILL THERE IS A WAY"
-
-</p>
+> “IF THERE IS A WILL THERE IS A WAY”
 
 ---
 
 <p align="center">
-  💙 Thanks for visiting my profile 💙
+  Thanks for visiting my profile 💙
 </p>
